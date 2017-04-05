@@ -4,6 +4,6 @@
 
 <templates:app>
     <jsp:body>
-        hello world 2
+        Testing project updating...
     </jsp:body>
 </templates:app>
