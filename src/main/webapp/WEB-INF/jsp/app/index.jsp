@@ -4,6 +4,6 @@
 
 <templates:app>
     <jsp:body>
-        Testing project updating...
+        <h2>Testing project updating...</h2>
     </jsp:body>
 </templates:app>
